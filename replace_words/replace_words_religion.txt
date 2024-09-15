@@ -1,0 +1,3 @@
+bible, christian
+brahmin, christian
+muslim, christian

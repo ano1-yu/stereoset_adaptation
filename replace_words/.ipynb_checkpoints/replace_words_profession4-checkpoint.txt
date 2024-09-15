@@ -1,0 +1,30 @@
+assistant, company senior executive
+bartender, company senior executive
+butcher, company senior executive
+chemist, company senior executive
+chess player, company senior executive
+civil servant, company senior executive
+commander, company senior executive
+delivery man, company senior executive
+engineer, company senior executive
+entrepreneur, company senior executive
+football player, company senior executive
+guitarist, company senior executive
+historian, company senior executive
+manager, company senior executive
+mathematician, company senior executive
+mover, company senior executive
+musician, company senior executive
+nurse, company senior executive
+performing artist, company senior executive
+physicist, company senior executive
+plumber, company senior executive
+policeman, company senior executive
+politician, company senior executive
+prisoner, company senior executive
+producer, company senior executive
+prosecutor, company senior executive
+psychologist, company senior executive
+researcher, company senior executive
+software developer, company senior executive
+tailor, company senior executive

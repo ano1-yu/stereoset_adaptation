@@ -1,0 +1,30 @@
+assistant, elected official
+bartender, elected official
+butcher, elected official
+chemist, elected official
+chess player, elected official
+civil servant, elected official
+commander, elected official
+delivery man, elected official
+engineer, elected official
+entrepreneur, elected official
+football player, elected official
+guitarist, elected official
+historian, elected official
+manager, elected official
+mathematician, elected official
+mover, elected official
+musician, elected official
+nurse, elected official
+performing artist, elected official
+physicist, elected official
+plumber, elected official
+policeman, elected official
+politician, elected official
+prisoner, elected official
+producer, elected official
+prosecutor, elected official
+psychologist, elected official
+researcher, elected official
+software developer, elected official
+tailor, elected official

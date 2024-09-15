@@ -1,0 +1,30 @@
+assistant, medical doctor
+bartender, medical doctor
+butcher, medical doctor
+chemist, medical doctor
+chess player, medical doctor
+civil servant, medical doctor
+commander, medical doctor
+delivery man, medical doctor
+engineer, medical doctor
+entrepreneur, medical doctor
+football player, medical doctor
+guitarist, medical doctor
+historian, medical doctor
+manager, medical doctor
+mathematician, medical doctor
+mover, medical doctor
+musician, medical doctor
+nurse, medical doctor
+performing artist, medical doctor
+physicist, medical doctor
+plumber, medical doctor
+policeman, medical doctor
+politician, medical doctor
+prisoner, medical doctor
+producer, medical doctor
+prosecutor, medical doctor
+psychologist, medical doctor
+researcher, medical doctor
+software developer, medical doctor
+tailor, medical doctor

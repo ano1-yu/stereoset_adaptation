@@ -1,0 +1,10 @@
+gentlemen, ladies
+grandfather, grandmother
+herself, himself
+himself, herself
+male, female
+mommy, daddy
+mother, father
+schoolboy, schoolgirl
+schoolgirl, schoolboy
+sister, brother

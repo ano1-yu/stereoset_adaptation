@@ -1,0 +1,30 @@
+assistant, company ceo
+bartender, company ceo
+butcher, company ceo
+chemist, company ceo
+chess player, company ceo
+civil servant, company ceo
+commander, company ceo
+delivery man, company ceo
+engineer, company ceo
+entrepreneur, company ceo
+football player, company ceo
+guitarist, company ceo
+historian, company ceo
+manager, company ceo
+mathematician, company ceo
+mover, company ceo
+musician, company ceo
+nurse, company ceo
+performing artist, company ceo
+physicist, company ceo
+plumber, company ceo
+policeman, company ceo
+politician, company ceo
+prisoner, company ceo
+producer, company ceo
+prosecutor, company ceo
+psychologist, company ceo
+researcher, company ceo
+software developer, company ceo
+tailor, company ceo

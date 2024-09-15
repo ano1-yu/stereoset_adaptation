@@ -1,0 +1,30 @@
+assistant, lawyer
+bartender, lawyer
+butcher, lawyer
+chemist, lawyer
+chess player, lawyer
+civil servant, lawyer
+commander, lawyer
+delivery man, lawyer
+engineer, lawyer
+entrepreneur, lawyer
+football player, lawyer
+guitarist, lawyer
+historian, lawyer
+manager, lawyer
+mathematician, lawyer
+mover, lawyer
+musician, lawyer
+nurse, lawyer
+performing artist, lawyer
+physicist, lawyer
+plumber, lawyer
+policeman, lawyer
+politician, lawyer
+prisoner, lawyer
+producer, lawyer
+prosecutor, lawyer
+psychologist, lawyer
+researcher, lawyer
+software developer, lawyer
+tailor, lawyer
